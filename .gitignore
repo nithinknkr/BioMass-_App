@@ -1,0 +1,13 @@
+# Ignore pics folder
+pics/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environment (if any)
+venv/
+.env/
+
+# Ignore .pyc files
+*.pyc
+*.pth
